@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Har3ndra
 - 👀 I’m interested in being a Data Scientist
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects related to data science that can help me enhance my skills
+- 📫 Reach me at harsa3112@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: It's never too late to start anything i guess ;)
 
