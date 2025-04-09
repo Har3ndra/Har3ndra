@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to data science that can help me enhance my skills
 - 📫 Reach me at harsa3112@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: It's never too late to start anything i guess ;)
+- ⚡ Fun fact: It's never too late to start anything
 
 <!---
 Har3ndra/Har3ndra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
